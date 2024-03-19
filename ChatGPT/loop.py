@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 import jsonlines
 from openai import OpenAI
-#openai.api_key = os.getenv("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")
+
 
 client = OpenAI(api_key="")
 #import sys
